@@ -1,0 +1,87 @@
+INFO:root:Line 2: Command MODE not supported
+INFO:root:Line 6: Command PFIL not supported
+DEBUG:root:pupil_data: ENPD 2.286E+1
+INFO:root:Line 9: Command ENVD not supported
+INFO:root:Line 10: Command GFAC not supported
+INFO:root:glass catalog INFRARED not found
+INFO:root:glass catalog MISC not found
+INFO:root:Line 12: Command RAIM not supported
+INFO:root:Line 13: Command PUSH not supported
+INFO:root:Line 14: Command SDMA not supported
+INFO:root:Line 16: Command ROPD not supported
+INFO:root:Line 17: Command PICB not supported
+DEBUG:root:field_spec_data: XFLN ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+DEBUG:root:field_spec_data: YFLN ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+DEBUG:root:field_spec_data: FWGN ['1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+DEBUG:root:field_spec_data: VDXN ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+DEBUG:root:field_spec_data: VDYN ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+DEBUG:root:field_spec_data: VCXN ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+DEBUG:root:field_spec_data: VCYN ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+DEBUG:root:field_spec_data: VANN ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+INFO:root:Line 50: Command PWAV not supported
+INFO:root:Line 51: Command POLS not supported
+INFO:root:Line 52: Command GLRS not supported
+INFO:root:Line 53: Command GSTD not supported
+INFO:root:Line 54: Command NSCD not supported
+INFO:root:Line 55: Command COFN not supported
+INFO:root:Line 56: Command COFN not supported
+INFO:root:Line 60: Command HIDE not supported
+INFO:root:Line 61: Command MIRR not supported
+INFO:root:Line 62: Command SLAB not supported
+INFO:root:Line 65: Command POPS not supported
+INFO:root:Line 67: Command COMM not supported
+INFO:root:Line 71: Command COAT not supported
+INFO:root:Line 72: Command HIDE not supported
+INFO:root:Line 73: Command MIRR not supported
+INFO:root:Line 74: Command SLAB not supported
+INFO:root:Line 78: Command POPS not supported
+INFO:root:Line 83: Command HIDE not supported
+INFO:root:Line 84: Command MIRR not supported
+INFO:root:Line 85: Command SLAB not supported
+INFO:root:Line 89: Command POPS not supported
+INFO:root:Line 94: Command COAT not supported
+INFO:root:Line 95: Command HIDE not supported
+INFO:root:Line 96: Command MIRR not supported
+INFO:root:Line 97: Command SLAB not supported
+INFO:root:Line 100: Command POPS not supported
+INFO:root:Line 105: Command HIDE not supported
+INFO:root:Line 106: Command MIRR not supported
+INFO:root:Line 107: Command SLAB not supported
+INFO:root:Line 110: Command POPS not supported
+INFO:root:Line 111: Command BLNK not supported
+INFO:root:Line 112: Command TOL not supported
+INFO:root:Line 113: Command MNUM not supported
+INFO:root:Line 114: Command MOFF not supported
+WARNING:py.warnings:/Users/johnmarshall/miniconda3/envs/rayoptics_2/lib/python3.9/site-packages/scipy/optimize/zeros.py:341: RuntimeWarning: Tolerance of -1.1800561371365734e-07 reached.
+  warnings.warn(msg, RuntimeWarning)
+
+WARNING:py.warnings:/Users/johnmarshall/miniconda3/envs/rayoptics_2/lib/python3.9/site-packages/scipy/optimize/zeros.py:341: RuntimeWarning: Tolerance of 5.771987065907637e-08 reached.
+  warnings.warn(msg, RuntimeWarning)
+
+WARNING:py.warnings:/Users/johnmarshall/miniconda3/envs/rayoptics_2/lib/python3.9/site-packages/scipy/optimize/zeros.py:341: RuntimeWarning: Tolerance of 5.771987065907637e-08 reached.
+  warnings.warn(msg, RuntimeWarning)
+
+WARNING:py.warnings:/Users/johnmarshall/miniconda3/envs/rayoptics_2/lib/python3.9/site-packages/scipy/optimize/zeros.py:341: RuntimeWarning: Tolerance of 5.771987065907637e-08 reached.
+  warnings.warn(msg, RuntimeWarning)
+
+WARNING:py.warnings:/Users/johnmarshall/miniconda3/envs/rayoptics_2/lib/python3.9/site-packages/scipy/optimize/zeros.py:341: RuntimeWarning: Tolerance of 5.771987065907637e-08 reached.
+  warnings.warn(msg, RuntimeWarning)
+
+WARNING:py.warnings:/Users/johnmarshall/miniconda3/envs/rayoptics_2/lib/python3.9/site-packages/scipy/optimize/zeros.py:341: RuntimeWarning: Tolerance of 5.771987065907637e-08 reached.
+  warnings.warn(msg, RuntimeWarning)
+
+WARNING:py.warnings:/Users/johnmarshall/miniconda3/envs/rayoptics_2/lib/python3.9/site-packages/scipy/optimize/zeros.py:341: RuntimeWarning: Tolerance of 5.771987065907637e-08 reached.
+  warnings.warn(msg, RuntimeWarning)
+
+WARNING:py.warnings:/Users/johnmarshall/miniconda3/envs/rayoptics_2/lib/python3.9/site-packages/scipy/optimize/zeros.py:341: RuntimeWarning: Tolerance of 5.771987065907637e-08 reached.
+  warnings.warn(msg, RuntimeWarning)
+
+WARNING:py.warnings:/Users/johnmarshall/miniconda3/envs/rayoptics_2/lib/python3.9/site-packages/scipy/optimize/zeros.py:341: RuntimeWarning: Tolerance of 5.771987065907637e-08 reached.
+  warnings.warn(msg, RuntimeWarning)
+
+WARNING:py.warnings:/Users/johnmarshall/miniconda3/envs/rayoptics_2/lib/python3.9/site-packages/scipy/optimize/zeros.py:341: RuntimeWarning: Tolerance of 5.771987065907637e-08 reached.
+  warnings.warn(msg, RuntimeWarning)
+
+WARNING:py.warnings:/Users/johnmarshall/miniconda3/envs/rayoptics_2/lib/python3.9/site-packages/scipy/optimize/zeros.py:341: RuntimeWarning: Tolerance of 5.771987065907637e-08 reached.
+  warnings.warn(msg, RuntimeWarning)
+
